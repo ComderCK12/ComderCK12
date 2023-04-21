@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m @ComderCK<br>✨ I’m interested in Coding, Machine Learning and Web development<br>🎓 I’m currently pursuing B.Tech in Information Technology at VJTI, Mumbai.<br>💻 I'm looking forward for more opportunities in Tech and have desire to learn<br>📫 How to reach me LinkedIn- https://www.linkedin.com/in/chirag-kathoye-1a3794230
+👋 Hey, I’m Chirag Kathoye<br>✨ I’m interested in Coding, Machine Learning and Web development<br>🎓 I’m currently pursuing B.Tech in Information Technology at VJTI, Mumbai.<br>💻 I'm looking forward for more opportunities in Tech and have desire to learn<br>📫 How to reach me LinkedIn- https://www.linkedin.com/in/chirag-kathoye-1a3794230
 
 
 ## 🌐 Socials:
